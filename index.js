@@ -8,7 +8,7 @@ let isAlive = false
 
 let messageEl = document.getElementById("message-el")
 let sumEl = document.getElementById("sum-el")
-// creat an object
+// create an object
 let player = {
     name: "shadi" ,
     chips: 145
